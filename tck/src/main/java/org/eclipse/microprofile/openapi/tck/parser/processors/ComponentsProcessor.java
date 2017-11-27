@@ -33,9 +33,6 @@ import org.eclipse.microprofile.openapi.models.responses.APIResponse;
 import org.eclipse.microprofile.openapi.models.security.SecurityScheme;
 import org.eclipse.microprofile.openapi.tck.parser.ResolverCache;
 
-/**
- * Created by gracekarina on 13/06/17.
- */
 public class ComponentsProcessor {
     private final ResolverCache cache;
     private final OpenAPI openApi;

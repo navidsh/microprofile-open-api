@@ -31,9 +31,6 @@ import org.eclipse.microprofile.openapi.models.parameters.Parameter;
 import org.eclipse.microprofile.openapi.tck.parser.ResolverCache;
 import org.eclipse.microprofile.openapi.tck.parser.models.RefFormat;
 
-/**
- * Created by gracekarina on 23/06/17.
- */
 public class CallbackProcessor {
     private final ResolverCache cache;
     private final OperationProcessor operationProcessor;

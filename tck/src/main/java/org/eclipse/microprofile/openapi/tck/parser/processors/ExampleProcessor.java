@@ -27,9 +27,6 @@ import org.eclipse.microprofile.openapi.models.examples.Example;
 import org.eclipse.microprofile.openapi.tck.parser.ResolverCache;
 import org.eclipse.microprofile.openapi.tck.parser.models.RefFormat;
 
-/**
- * Created by gracekarina on 23/06/17.
- */
 public class ExampleProcessor {
     private final ResolverCache cache;
     private final OpenAPI openAPI;

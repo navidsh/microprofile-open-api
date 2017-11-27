@@ -29,9 +29,6 @@ import org.eclipse.microprofile.openapi.models.parameters.RequestBody;
 import org.eclipse.microprofile.openapi.tck.parser.ResolverCache;
 import org.eclipse.microprofile.openapi.tck.parser.models.RefFormat;
 
-/**
- * Created by gracekarina on 20/06/17.
- */
 public class RequestBodyProcessor {
     private final SchemaProcessor schemaProcessor;
     private final ExternalRefProcessor externalRefProcessor;

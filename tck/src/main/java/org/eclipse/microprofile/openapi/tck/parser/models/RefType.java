@@ -17,9 +17,6 @@
 
 package org.eclipse.microprofile.openapi.tck.parser.models;
 
-/**
- * Created by gracekarina on 16/06/17.
- */
 public enum RefType {
     COMPONENTS("#/components/"), PATH("#/paths/");
 
